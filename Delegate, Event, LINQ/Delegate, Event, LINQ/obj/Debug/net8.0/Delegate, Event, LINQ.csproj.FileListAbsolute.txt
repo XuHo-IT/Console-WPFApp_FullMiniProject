@@ -1,0 +1,4 @@
+E:\PRN212\Delegate, Event, LINQ\Delegate, Event, LINQ\obj\Debug\net8.0\Delegate, Event, LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\Delegate, Event, LINQ\Delegate, Event, LINQ\obj\Debug\net8.0\Delegate, Event, LINQ.AssemblyInfoInputs.cache
+E:\PRN212\Delegate, Event, LINQ\Delegate, Event, LINQ\obj\Debug\net8.0\Delegate, Event, LINQ.AssemblyInfo.cs
+E:\PRN212\Delegate, Event, LINQ\Delegate, Event, LINQ\obj\Debug\net8.0\Delegate, Event, LINQ.csproj.CoreCompileInputs.cache
