@@ -1,1 +1,1 @@
-The 2.0 are files that i have remove from the old repo and add all of them with the other file into this one for an only 1 repo that i studied things about console and wpfapp
+"The 2.0 files are the ones I removed from the old repository and added to this new one, along with other files, to have a single repository for everything I studied about console applications and WPF apps
