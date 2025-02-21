@@ -1,0 +1,17 @@
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\bin\Debug\net8.0\BussinessObject.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\bin\Debug\net8.0\BussinessObject.pdb
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\Repositories\obj\Debug\net8.0\ref\Repositories.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\CN5\\PRN212\\Code\\DemoXmlSerializer02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C428791-6F81-468B-9085-C28F78B35606}|DemoXmlSerializer02\\DemoXmlSerializer02.csproj|d:\\fpt\\cn5\\prn212\\code\\demoxmlserializer02\\demoxmlserializer02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C428791-6F81-468B-9085-C28F78B35606}|DemoXmlSerializer02\\DemoXmlSerializer02.csproj|solutionrelative:demoxmlserializer02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C428791-6F81-468B-9085-C28F78B35606}|DemoXmlSerializer02\\DemoXmlSerializer02.csproj|d:\\fpt\\cn5\\prn212\\code\\demoxmlserializer02\\demoxmlserializer02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C428791-6F81-468B-9085-C28F78B35606}|DemoXmlSerializer02\\DemoXmlSerializer02.csproj|solutionrelative:demoxmlserializer02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\FPT\\CN5\\PRN212\\Code\\DemoXmlSerializer02\\DemoXmlSerializer02\\Person.cs",
+              "RelativeDocumentMoniker": "DemoXmlSerializer02\\Person.cs",
+              "ToolTip": "D:\\FPT\\CN5\\PRN212\\Code\\DemoXmlSerializer02\\DemoXmlSerializer02\\Person.cs",
+              "RelativeToolTip": "DemoXmlSerializer02\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:36:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\CN5\\PRN212\\Code\\DemoXmlSerializer02\\DemoXmlSerializer02\\Program.cs",
+              "RelativeDocumentMoniker": "DemoXmlSerializer02\\Program.cs",
+              "ToolTip": "D:\\FPT\\CN5\\PRN212\\Code\\DemoXmlSerializer02\\DemoXmlSerializer02\\Program.cs",
+              "RelativeToolTip": "DemoXmlSerializer02\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:34:14.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

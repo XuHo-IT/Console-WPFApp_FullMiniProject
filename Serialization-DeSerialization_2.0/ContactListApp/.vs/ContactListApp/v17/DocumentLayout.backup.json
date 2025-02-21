@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|d:\\fpt\\cn5\\prn212\\code\\contactlistapp\\contactlistapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|solutionrelative:contactlistapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|d:\\fpt\\cn5\\prn212\\code\\contactlistapp\\contactlistapp\\contactlistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|solutionrelative:contactlistapp\\contactlistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|d:\\fpt\\cn5\\prn212\\code\\contactlistapp\\contactlistapp\\contacts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|solutionrelative:contactlistapp\\contacts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|d:\\fpt\\cn5\\prn212\\code\\contactlistapp\\contactlistapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A975B925-42D9-42C0-9B2A-C9F3D1E8B4BA}|ContactListApp\\ContactListApp.csproj|solutionrelative:contactlistapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactListApp",
+              "DocumentMoniker": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\ContactListApp.csproj",
+              "RelativeDocumentMoniker": "ContactListApp\\ContactListApp.csproj",
+              "ToolTip": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\ContactListApp.csproj",
+              "RelativeToolTip": "ContactListApp\\ContactListApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T01:28:21.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacts.xml",
+              "DocumentMoniker": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\Contacts.xml",
+              "RelativeDocumentMoniker": "ContactListApp\\Contacts.xml",
+              "ToolTip": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\Contacts.xml",
+              "RelativeToolTip": "ContactListApp\\Contacts.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-05T01:28:06.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ContactListApp\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\MainWindow.xaml",
+              "RelativeToolTip": "ContactListApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T01:26:39.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ContactListApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\CN5\\PRN212\\Code\\ContactListApp\\ContactListApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ContactListApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:26:34.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

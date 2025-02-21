@@ -1,0 +1,11 @@
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\bin\Debug\net8.0\BussinessObject.deps.json
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\bin\Debug\net8.0\BussinessObject.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\bin\Debug\net8.0\BussinessObject.pdb
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\BussinessObject.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\refint\BussinessObject.dll
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\BussinessObject.pdb
+C:\Users\OS\source\repos\LAB1WPF_CLASSLIBRARY\LAB1WPF_CLASSLIBRARY\obj\Debug\net8.0\ref\BussinessObject.dll
