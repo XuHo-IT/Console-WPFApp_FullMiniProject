@@ -17,22 +17,21 @@ namespace WpfApp
             InitializeComponent();
             pawnContractRepository = new PawnContractRepository();
             items = new ItemRepository();
-            LoadPawnContracts();
+            //LoadPawnContracts();
 
         }
 
-        private void LoadPawnContracts()
-        {
-            var pawnContracts = pawnContractRepository.GetAllContracts();
-            var itemsInPawn = items.GetItems().FirstOrDefault(i => i.ItemId == pawnContracts)
+        //private void LoadPawnContracts()
+        //{
+        //    var pawnContracts = pawnContractRepository.GetAllContracts();
+        //    var itemsInPawn = items.GetItems().FirstOrDefault(i => i.ItemId == pawnContracts.);
 
-            PawnContractsGrid.ItemsSource = pawnContracts;
+        //    PawnContractsGrid.ItemsSource = pawnContracts;
 
-        }
+        //}
 
-        private void LoadItem()
-        {
-            
+
+
 
 
 
@@ -75,7 +74,7 @@ namespace WpfApp
                             context.SaveChanges();
 
                             MessageBox.Show("The item has been successfully liquidated and added to the shop.");
-                            LoadPawnContracts(); // Refresh the DataGrid
+                            /* LoadPawnContracts();*/ // Refresh the DataGrid
                         }
                         catch (Exception ex)
                         {
@@ -96,8 +95,8 @@ namespace WpfApp
 
 
         private void Menu_Click(object sender, RoutedEventArgs e)
-        {        
-            this.Close(); 
+        {
+            this.Close();
         }
     }
 }
