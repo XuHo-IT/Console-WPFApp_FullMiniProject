@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\PRN212\\HomeWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B142629-DD2C-4C7B-87F7-F72020716488}|Question3\\TaskScheduler.csproj|e:\\prn212\\homework\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B142629-DD2C-4C7B-87F7-F72020716488}|Question3\\TaskScheduler.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|e:\\prn212\\homework\\advancetodo\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|solutionrelative:advancetodo\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15C33829-E066-4997-AEE8-601EDD7BC670}|Question2\\Question2.csproj|e:\\prn212\\homework\\question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C33829-E066-4997-AEE8-601EDD7BC670}|Question2\\Question2.csproj|solutionrelative:question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|e:\\prn212\\homework\\advancetodo\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|solutionrelative:advancetodo\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8270C0E4-ACB2-4270-A67A-FA9606009709}|Question1\\Question1.csproj|e:\\prn212\\homework\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8270C0E4-ACB2-4270-A67A-FA9606009709}|Question1\\Question1.csproj|solutionrelative:question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC1F482-6D65-42DE-8A47-D3BFD8AF117A}|LibraryItem\\ToDo.csproj|e:\\prn212\\homework\\libraryitem\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC1F482-6D65-42DE-8A47-D3BFD8AF117A}|LibraryItem\\ToDo.csproj|solutionrelative:libraryitem\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15C33829-E066-4997-AEE8-601EDD7BC670}|Question2\\FileAnalyzer.csproj|e:\\prn212\\homework\\question2\\texting.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{15C33829-E066-4997-AEE8-601EDD7BC670}|Question2\\FileAnalyzer.csproj|solutionrelative:question2\\texting.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|e:\\prn212\\homework\\advancetodo\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|solutionrelative:advancetodo\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|e:\\prn212\\homework\\advancetodo\\borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05A33B9-FAD6-40AA-91F3-E766FE7932FF}|AdvanceTodo\\AdvanceTodo.csproj|solutionrelative:advancetodo\\borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,54 +114,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PRN212\\HomeWork\\Question3\\Program.cs",
-              "RelativeDocumentMoniker": "Question3\\Program.cs",
-              "ToolTip": "E:\\PRN212\\HomeWork\\Question3\\Program.cs",
-              "RelativeToolTip": "Question3\\Program.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAkwEcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:11:44.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Texting.txt",
-              "DocumentMoniker": "E:\\PRN212\\HomeWork\\Question2\\Texting.txt",
-              "RelativeDocumentMoniker": "Question2\\Texting.txt",
-              "ToolTip": "E:\\PRN212\\HomeWork\\Question2\\Texting.txt",
-              "RelativeToolTip": "Question2\\Texting.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-14T07:08:53.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PRN212\\HomeWork\\Question1\\Program.cs",
-              "RelativeDocumentMoniker": "Question1\\Program.cs",
-              "ToolTip": "E:\\PRN212\\HomeWork\\Question1\\Program.cs",
-              "RelativeToolTip": "Question1\\Program.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAQwBIAAAA1AAAA",
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "E:\\PRN212\\HomeWork\\LibraryItem\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem\\LibraryItem.cs",
+              "ToolTip": "E:\\PRN212\\HomeWork\\LibraryItem\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:58:01.395Z",
+              "WhenOpened": "2025-05-26T11:22:54.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PRN212\\HomeWork\\Question2\\Program.cs",
-              "RelativeDocumentMoniker": "Question2\\Program.cs",
-              "ToolTip": "E:\\PRN212\\HomeWork\\Question2\\Program.cs",
-              "RelativeToolTip": "Question2\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAQwC0AAAA+AAAA",
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "E:\\PRN212\\HomeWork\\AdvanceTodo\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "AdvanceTodo\\StringExtensions.cs",
+              "ToolTip": "E:\\PRN212\\HomeWork\\AdvanceTodo\\StringExtensions.cs",
+              "RelativeToolTip": "AdvanceTodo\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:48:44.997Z",
+              "WhenOpened": "2025-05-26T11:21:52.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "E:\\PRN212\\HomeWork\\AdvanceTodo\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "AdvanceTodo\\LibraryManager.cs",
+              "ToolTip": "E:\\PRN212\\HomeWork\\AdvanceTodo\\LibraryManager.cs",
+              "RelativeToolTip": "AdvanceTodo\\LibraryManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:20:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainProgram.cs",
+              "DocumentMoniker": "E:\\PRN212\\HomeWork\\AdvanceTodo\\MainProgram.cs",
+              "RelativeDocumentMoniker": "AdvanceTodo\\MainProgram.cs",
+              "ToolTip": "E:\\PRN212\\HomeWork\\AdvanceTodo\\MainProgram.cs",
+              "RelativeToolTip": "AdvanceTodo\\MainProgram.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:13:41.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowingHistory.cs",
+              "DocumentMoniker": "E:\\PRN212\\HomeWork\\AdvanceTodo\\BorrowingHistory.cs",
+              "RelativeDocumentMoniker": "AdvanceTodo\\BorrowingHistory.cs",
+              "ToolTip": "E:\\PRN212\\HomeWork\\AdvanceTodo\\BorrowingHistory.cs",
+              "RelativeToolTip": "AdvanceTodo\\BorrowingHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:10:40.585Z",
               "EditorCaption": ""
             }
           ]

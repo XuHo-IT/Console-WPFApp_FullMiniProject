@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommandLineCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b83a9c1a22da0fa7ce90d534f4d449631fb4d2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcaf211a2c3c8acd1d9fa88389e69855ff51dad6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommandLineCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommandLineCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
